@@ -6,3 +6,5 @@ let footer ='footer is added'
 console.log(footer)
 let payment = "payement is added "
 console.log(payment)
+let upi = 'upi id is added'
+console.log(upi)
